@@ -1,7 +1,7 @@
 Tag Grabber
 ============
 
-I am currently learning Python in my spare time. This is by no means complete code. I would like to rewrite what I have so that it is expressed in an OOP design pattern.
+I am currently learning Python in my spare time. This is by no means complete code. I would like to rewrite what I have so that it is expressed in an Object-Oriented design pattern.
 
 Goals:
 
